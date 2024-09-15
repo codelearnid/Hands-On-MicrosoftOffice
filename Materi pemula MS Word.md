@@ -12,7 +12,7 @@ Pilih Start > Word 2016 (Jika dibuka di Windows 10), kemudian akan muncul tampil
 ## Tampilan Microsoft Word
 
 <p align="center">
-  <img src="IMG/2.png" alt="Deskripsi Gambar" width="200" />
+  <img src="IMG/2.png" alt="Deskripsi Gambar" width="700" />
 </p>
 
 Keterangan Gambar :
