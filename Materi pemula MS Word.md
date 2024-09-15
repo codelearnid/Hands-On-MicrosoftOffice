@@ -52,7 +52,7 @@ Tampilan Backstage untuk menyimpan, membuka file, mencetak, dan berbagi dokumen.
             </p>
         </td>
         <td style="width: 30%; padding: 10px;">
-            <img src="IMG/3.png" alt="Deskripsi Gambar" width="100" />
+            <img src="IMG/3.png" alt="Deskripsi Gambar" width="300" />
         </td>
     </tr>
 </table>
