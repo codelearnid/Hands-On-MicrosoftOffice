@@ -34,24 +34,25 @@ Keterangan Gambar :
 ## Mengaktifkan Menu-menu
 a. Tampilan Backstage
 Tampilan Backstage untuk menyimpan, membuka file, mencetak, dan berbagi dokumen. Untuk mengakses, klik tab File pada Pita.
-
-<div style="display: flex; justify-content: space-between;">
-    <div style="flex: 1; padding: 10px;">
-        <p>
-            <strong>Return to Word</strong>: Gunakan panah untuk tutup tampilan Backstage dan kembali ke Word.<br>
-            <strong>Info</strong>: Panel Info muncul saat mengakses tampilan Backstage. Berisi informasi tentang dokumen saat ini. Anda dapat memeriksa dokumen untuk menghapus informasi pribadi dan melindunginya.<br>
-            <strong>New</strong>: Dari sini, Anda dapat membuat dokumen kosong baru atau memilih template.<br>
-            <strong>Open</strong>: Dari sini, Anda dapat membuka dokumen yang disimpan pada komputer atau OneDrive.<br>
-            <strong>Save dan Save As</strong>: Gunakan untuk menyimpan dokumen ke komputer atau OneDrive.<br>
-            <strong>Print</strong>: Dari panel Print, Anda dapat mengubah pengaturan pencetakan dan mencetak buku kerja. Anda juga dapat melihat preview.<br>
-            <strong>Share</strong>: Dari sini, Anda dapat mengundang orang untuk melihat dan berkolaborasi pada dokumen Anda.<br>
-            <strong>Export</strong>: Dari sini, Anda dapat mengekspor dokumen Anda menjadi file dengan format lain, seperti PDF / XPS.<br>
-            <strong>Close</strong>: Klik di sini untuk menutup buku kerja yang saat ini terbuka.<br>
-            <strong>Account</strong>: Dari panel Account, Anda dapat mengakses informasi akun Microsoft Anda (OneDrive), mengubah tema dan latar belakang, dan keluar dari akun Anda.<br>
-            <strong>Options</strong>: Di sini, Anda dapat mengubah berbagai pilihan Word. Misalnya, Anda dapat mengontrol pengaturan ejaan dan pemeriksaan tata bahasa, pengaturan AutoRecover, dan preferensi bahasa.
-        </p>
-    </div>
-    <div style="flex: 1; padding: 10px;">
-        <img src="IMG/3.png" alt="Deskripsi Gambar" width="100" />
-    </div>
-</div>
+<table style="width: 100%;">
+    <tr>
+        <td style="width: 70%; padding: 10px;">
+            <p>
+                <strong>Return to Word</strong>: Gunakan panah untuk tutup tampilan Backstage dan kembali ke Word.<br>
+                <strong>Info</strong>: Panel Info muncul saat mengakses tampilan Backstage. Berisi informasi tentang dokumen saat ini. Anda dapat memeriksa dokumen untuk menghapus informasi pribadi dan melindunginya.<br>
+                <strong>New</strong>: Dari sini, Anda dapat membuat dokumen kosong baru atau memilih template.<br>
+                <strong>Open</strong>: Dari sini, Anda dapat membuka dokumen yang disimpan pada komputer atau OneDrive.<br>
+                <strong>Save dan Save As</strong>: Gunakan untuk menyimpan dokumen ke komputer atau OneDrive.<br>
+                <strong>Print</strong>: Dari panel Print, Anda dapat mengubah pengaturan pencetakan dan mencetak buku kerja. Anda juga dapat melihat preview.<br>
+                <strong>Share</strong>: Dari sini, Anda dapat mengundang orang untuk melihat dan berkolaborasi pada dokumen Anda.<br>
+                <strong>Export</strong>: Dari sini, Anda dapat mengekspor dokumen Anda menjadi file dengan format lain, seperti PDF / XPS.<br>
+                <strong>Close</strong>: Klik di sini untuk menutup buku kerja yang saat ini terbuka.<br>
+                <strong>Account</strong>: Dari panel Account, Anda dapat mengakses informasi akun Microsoft Anda (OneDrive), mengubah tema dan latar belakang, dan keluar dari akun Anda.<br>
+                <strong>Options</strong>: Di sini, Anda dapat mengubah berbagai pilihan Word. Misalnya, Anda dapat mengontrol pengaturan ejaan dan pemeriksaan tata bahasa, pengaturan AutoRecover, dan preferensi bahasa.
+            </p>
+        </td>
+        <td style="width: 30%; padding: 10px;">
+            <img src="IMG/3.png" alt="Deskripsi Gambar" width="100" />
+        </td>
+    </tr>
+</table>
