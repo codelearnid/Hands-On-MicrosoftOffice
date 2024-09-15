@@ -5,7 +5,9 @@ Microsoft Word adalah program pengolah kata (word processor) yang digunakan untu
 Memulai Microsoft Word
 Pilih Start > Word 2016 (Jika dibuka di Windows 10), kemudian akan muncul tampilan permulaan.
 
-<img src="IMG/1.png" alt="Deskripsi Gambar" width="500" />
+<p align="center">
+  <img src="IMG/1.png" alt="Deskripsi Gambar" width="700" />
+</p>
 
 Keterangan Gambar :
 1. Quick Access, merupakan tombol yang berisi menu simpan, undo (urung) dan redo
