@@ -1,9 +1,8 @@
 # Hands-On-MicrosoftOffice
 
-Repo Materi Microsoft Office bagi pemula`<br>`
+Repo Materi Microsoft Office bagi pemula `<br>`
 
-Tutor **Arif Wicaksono Septyanto, S.Kom., M.Kom**`<br>`
-
+Tutor **Arif Wicaksono Septyanto, S.Kom., M.Kom** `<br>`
 
 **Referensi yang digunakan:**
 
